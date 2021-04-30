@@ -26,7 +26,7 @@ ___
 ***
 Tabelas</br>
 Nome | filho | idade
-___ ___ ___
+:--- | --- | ---:
 joão | felipe | 12
 maria | ana | 9
 José | fulano | 15
