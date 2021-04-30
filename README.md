@@ -23,3 +23,10 @@ ___
 ___
 **inserção de imagens**</br>
 ![Dr. Childer Carlo Candido](https://user-images.githubusercontent.com/72885727/116605686-1ad50c80-a906-11eb-9bc3-e97826f40571.png)
+***
+Tabelas</br>
+Nome | filho | idade
+___ ___ ___
+joão | felipe | 12
+maria | ana | 9
+José | fulano | 15
