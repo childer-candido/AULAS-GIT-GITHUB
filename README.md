@@ -31,7 +31,7 @@ joão | felipe | 12
 maria | ana | 9
 José | fulano | 15
 ___
-Apausos: :clap:
-olhos: :eyes:
-Força: :muscle:
+Apausos: :clap:</br>
+olhos: :eyes:</br>
+Força: :muscle:</br>
 jóia: :+1:
