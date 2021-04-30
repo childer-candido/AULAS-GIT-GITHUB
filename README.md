@@ -30,3 +30,8 @@ Nome | filho | idade
 joão | felipe | 12
 maria | ana | 9
 José | fulano | 15
+___
+Apausos: :clap:
+olhos: :eyes:
+Força: :muscle:
+jóia: :+1:
